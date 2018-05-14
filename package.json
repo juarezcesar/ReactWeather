@@ -5,6 +5,11 @@
   "main": "index.js",
   "author": "Juarez",
   "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error on test \"  && exit 1",
+    "start": "node server.js"
+  },
+
   "dependencies": {
     "antd": "^3.5.1",
     "babel-core": "^6.26.3",
